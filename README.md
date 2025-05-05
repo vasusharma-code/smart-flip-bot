@@ -77,5 +77,7 @@ FLIP Smart Chatbot is a prototype assistant that helps users discover live cashb
 https://www.loom.com/share/85bb05d17cc1471f8944da4621336c99?sid=71a875af-bd55-4d53-9fab-e04e858e1d44
 ---
 
+**Note:** Message delivery and response speed may be slow because the APIs used (Gemini and Twilio) are on free tiers. Gemini replies may also be truncated or not fully shown due to Twilio's free API limitations and Flask response handling.
+
 ## License
 MIT
